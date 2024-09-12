@@ -1,0 +1,531 @@
+\begin{thebibliography}{10}
+
+\bibitem{Anagnostopoulos:Tasoulis:Adams:Pavlidis2012}
+C.~Anagnostopoulos, D.~K. Tasoulis, N.~M. Adams, N.~G. Pavlidis, and D.~J.
+  Hand.
+\newblock Online linear and quadratic discriminant analysis with adaptive
+  forgetting for streaming classification.
+\newblock {\em Statistical Analysis and Data Mining}, 5(2):139--166, 2012.
+
+\bibitem{Angluin:Laird1988}
+D.~Angluin and P.~Laird.
+\newblock Learning from noisy examples.
+\newblock {\em Machine Learning}, 2(4):343--370, 1988.
+
+\bibitem{Bartlett:Wegkamp2008}
+P.~L. Bartlett and M.~H. Wegkamp.
+\newblock Classification with a reject option using a hinge loss.
+\newblock {\em Journal of Machine Learning Research}, 9(59):1823--1840, 2008.
+
+\bibitem{BenDavid:Lu:Luu:Pal2010}
+S.~Ben-David, T.~Lu, T.~Luu, and D.~Pal.
+\newblock Impossibility theorems for domain adaptation.
+\newblock In {\em AISTATS}, pages 129--136, 2010.
+
+\bibitem{Blum:Kalai:2003}
+A.~Blum, A.~Kalai, and H.~Wasserman.
+\newblock Noise-tolerant learning, the parity problem, and the statistical
+  query model.
+\newblock {\em Journal of the ACM}, 50(4):506--519, 2003.
+
+\bibitem{Catoni2012}
+O.~Catoni.
+\newblock Challenging the empirical mean and empirical variance: A deviation
+  study.
+\newblock {\em Annales de l'Institut Henri Poincar\'{e}, Probabilit\'{e}s et
+  Statistiques}, 48(4):1148--1185, 2012.
+
+\bibitem{CesaBianchi:Lugosi2006}
+N.~Cesa-Bianchi and G.~Lugosi.
+\newblock {\em Prediction, Learning, and Games}.
+\newblock Cambridge University Press, 2006.
+
+\bibitem{Chen:Geng:Chen:Horrocks2021}
+J.~Chen, Y.~Geng, Z.~Chen, I.~Horrocks, J.~Z. Pan, and H.~Chen.
+\newblock Knowledge-aware zero-shot learning: Survey and perspective.
+\newblock In {\em IJCAI}, pages 4366--4373, 2021.
+
+\bibitem{Chen:Yu:Da:Tan2018}
+S.-Y. Chen, Y.~Yu, Q.~Da, J.~Tan, H.-K. Huang, and H.-H. Tang.
+\newblock Stabilizing reinforcement learning in dynamic environment with
+  application to online recommendation.
+\newblock In {\em KDD}, pages 1187--1196, 2018.
+
+\bibitem{Cortes:Mohri2004}
+C.~Cortes and M.~Mohri.
+\newblock {AUC} optimization vs. error rate minimization.
+\newblock In {\em NIPS}, pages 313--320, 2004.
+
+\bibitem{Crammer:Mansour:EvenDar2010}
+K.~Crammer, Y.~Mansour, E.~Even-Dar, and J.~W. Vaughan.
+\newblock Regret minimization with concept drift.
+\newblock In {\em COLT}, pages 168--180, 2010.
+
+\bibitem{Da:Yu:Zhou2014}
+Q.~Da, Y.~Yu, and Z.-H. Zhou.
+\newblock Learning with augmented class by exploiting unlabeled data.
+\newblock In {\em AAAI}, pages 1760--1766, 2014.
+
+\bibitem{Delange:Aljundi:Masana2022}
+M.~Delange, R.~Aljundi, M.~Masana, S.~Parisot, X.~Jia, A.~Leonardis,
+  G.~Slabaugh, and T.~Tuytelaars.
+\newblock A continual learning survey: Defying forgetting in classification
+  tasks.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence}, page
+  10.1109/TPAMI.2021.3057446, 2022.
+
+\bibitem{Dietterich2017}
+T.~G. Dietterich.
+\newblock Steps toward robust artificial intelligence.
+\newblock {\em AI Magazine}, 38(3):3--24, 2017.
+
+\bibitem{Dietterich2019}
+T.~G. Dietterich.
+\newblock Robust artificial intelligence and robust human organizations.
+\newblock {\em Frontiers of Computer Science}, 13(1):1--3, 2019.
+
+\bibitem{Ding:Zhou2018}
+Y.-X. Ding and Z.-H. Zhou.
+\newblock Preference based adaptation for learning objectives.
+\newblock In {\em NeurIPS}, pages 7839--7848, 2018.
+
+\bibitem{Faria:Goncalves:Gama2015}
+E.~R. Faria, I.~R. Gon{\c c}alves, J.~Gama, and A.~C.~P.~L.~F. Carvalho.
+\newblock Evaluation of multiclass novelty detection algorithms for data
+  streams.
+\newblock {\em IEEE Trans. Knowledge and Data Engineering}, 27(11):2961--2973,
+  2015.
+
+\bibitem{Foulds:Frank2010}
+J.~Foulds and E.~Frank.
+\newblock A review of multi-instance learning assumptions.
+\newblock {\em Knowledge Engineering Review}, 25(1):1--25, 2010.
+
+\bibitem{Fumera:Roli:Giacinto2000}
+G.~Fumera, F.~Roli, and G.~Giacinto.
+\newblock Reject option with multiple thresholds.
+\newblock {\em Pattern Recognition}, 33(12):2099--2101, 2000.
+
+\bibitem{Gama:Zliobaite:Bifet:Pechenizkiy2014}
+J.~Gama, I.~Zliobaite, A.~Bifet, M.~Pechenizkiy, and A.~Bouchachia.
+\newblock A survey on concept drift adaptation.
+\newblock {\em ACM Computing Surveys}, 46(4):Article 44, 2014.
+
+\bibitem{Gao:Niu:Zhou2016}
+W.~Gao, X.-Y. Niu, and Z.-H. Zhou.
+\newblock Learnability of non-i.i.d.
+\newblock In {\em ACML}, pages 158--173, 2016.
+
+\bibitem{Gao:Wang:Li:Zhou2016}
+W.~Gao, L.~Wang, Y.-F. Li, and Z.-H. Zhou.
+\newblock Risk minimization in the presence of label noise.
+\newblock In {\em AAAI}, pages 1575--1581, 2016.
+
+\bibitem{Gao:Zhang:Yang:Zhou2021}
+W.~Gao, T.~Zhang, B.-B. Yang, and Z.-H. Zhou.
+\newblock On the noise estimation statistics.
+\newblock {\em Artificial Intelligence}, 293:Article 103451, 2021.
+
+\bibitem{Geifman:ElYaniv2019}
+Y.~Geifman and R.~El-Yaniv.
+\newblock Selective{N}et: A deep neural network with an integrated reject
+  option.
+\newblock In {\em ICML}, pages 2151--2159, 2019.
+
+\bibitem{Geng:Huang:Chen2020}
+C.~Geng, S.-J. Huang, and S.~Chen.
+\newblock Recent advances in open set recognition: A survey.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  43(10):3614--3631, 2020.
+
+\bibitem{GiraudCarrier2000}
+C.~Giraud-Carrier.
+\newblock A note on the utility of incremental learning.
+\newblock {\em AI Communications}, 13(4):215--223, 2000.
+
+\bibitem{Golub:Slonim:Tamayo:Huard1999}
+T.~Golub, D.~Slonim, P.~Tamayo, C.~Huard, M.~Gaasenbeek, J.~Mesirov, H.~Coller,
+  M.~Loh, J.~Downing, M.~Caligiuri, C.~Bloomfield, and E.~Lander.
+\newblock Molecular classification of cancer: Class discovery and class
+  prediction by gene expression.
+\newblock {\em Science}, 286(5439):531--537, 1999.
+
+\bibitem{Gomes:Barddal:Enembreck2017}
+H.~M. Gomes, J.~P. Barddal, F.~Enembreck, and A.~Bifet.
+\newblock A survey on ensemble learning for data stream classification.
+\newblock {\em ACM Computing Surveys}, 50(2):23:1--23:36, 2017.
+
+\bibitem{Guo:Ljung:Priouret1993}
+L.~Guo, L.~Ljung, and P.~Priouret.
+\newblock Performance analysis of the forgetting factor {RLS} algorithm.
+\newblock {\em International Journal of Adaptive Control Signal Processing},
+  7(6):525--538, 1993.
+
+\bibitem{Harel:Mannor:ElYaniv2014}
+M.~Harel, S.~Mannor, R.~El-Yaniv, and K.~Crammer.
+\newblock Concept drift detection through resampling.
+\newblock In {\em ICML}, pages 1009--1017, 2014.
+
+\bibitem{He:Chen:Li:Xu2011}
+H.~He, S.~Chen, K.~Li, and X.~Xu.
+\newblock Incremental learning from stream data.
+\newblock {\em IEEE Trans. Neural Networks}, 22(12):1901--1914, 2011.
+
+\bibitem{Helmbold:Long1994}
+D.~P. Helmbold and P.~M. Long.
+\newblock Tracking drifting concepts by minimizing disagreements.
+\newblock {\em Machine Learning}, 14(1):27--45, 1994.
+
+\bibitem{Hou:Zhang:Zhou2017}
+B.-J. Hou, L.~Zhang, and Z.-H. Zhou.
+\newblock Learning with feature evolvable streams.
+\newblock In {\em NIPS}, pages 1417--1427, 2017.
+
+\bibitem{Hou:Zhang:Zhou2021}
+B.-J. Hou, L.~Zhang, and Z.-H. Zhou.
+\newblock Prediction with unpredictable feature evolution.
+\newblock {\em IEEE Trans. Neural Networks and Learning Systems}, page
+  DOI:10.1109/TNNLS.2021.3071311, 2021.
+
+\bibitem{Hou:Zhou2018}
+C.~Hou and Z.-H. Zhou.
+\newblock One-pass learning with incremental and decremental features.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  40(11):2776--2792, 2018.
+
+\bibitem{Hu:Chen:Peng:Yu2019}
+C.~Hu, Y.~Chen, X.~Peng, H.~Yu, C.~Gao, and L.~Hu.
+\newblock A novel feature incremental learning method for sensor-based activity
+  recognition.
+\newblock {\em IEEE Trans. Knowledge and Data Engineering}, 31(6):1038--1050,
+  2019.
+
+\bibitem{DaumeIII:Marcu2006}
+H.~Daum\'{e} III and D.~Marcu.
+\newblock Domain adaptation for statistical classifiers.
+\newblock {\em Journal of Artificial Intelligence Research}, 26:101--126, 2006.
+
+\bibitem{Klinkenberg:Joachims2000}
+R.~Klinkenberg and T.~Joachims.
+\newblock Detecting concept drift with support vector machines.
+\newblock In {\em ICML}, pages 487--494, 2000.
+
+\bibitem{Kolter:Maloof2005}
+J.~Z. Kolter and M.~A. Maloof.
+\newblock Using additive expert ensembles to cope with concept drift.
+\newblock In {\em ICML}, pages 449--456, 2005.
+
+\bibitem{Kouw:Loog2021}
+W.~M. Kouw and M.~Loog.
+\newblock A review of domain adaptation without target labels.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  43(3):766--785, 2005.
+
+\bibitem{Koychev2000}
+I.~Koychev.
+\newblock Gradual forgetting for adaptation to concept drift.
+\newblock In {\em ECAI-2000 Workshop on Current Issues in Spatio-Temporal
+  Reasoning}, pages 101--106, 2000.
+
+\bibitem{Kuncheva:Zliobaite2009}
+L.~I. Kuncheva and I.~Zliobaite.
+\newblock On the window size for classification in changing environments.
+\newblock {\em Intelligent Data Analysis}, 13(6):861--872, 2009.
+
+\bibitem{Li:Tsang:Zhou2013}
+N.~Li, I.~W. Tsang, and Z.-H. Zhou.
+\newblock Efficient optimization of performance measures by classifier
+  adaptation.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  35(6):1370--1382, 2013.
+
+\bibitem{Li:Zhou2015}
+Y.-F. Li and Z.-H. Zhou.
+\newblock Towards making unlabeled data never hurt.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  37(1):175--188, 2015.
+
+\bibitem{Liu:Ting:Zhou:2008}
+F.~T. Liu, K.~M. Ting, and Z.-H. Zhou.
+\newblock Isolation forest.
+\newblock In {\em ICDM}, pages 413--422, 2008.
+
+\bibitem{Liu:Garrepalli:Hendrycks:Fern2022}
+S.~Liu, R.~Garrepalli, D.~Hendrycks, A.~Fern, D.~Mondal, and T.~G. Dietterich.
+\newblock {PAC} guarantees and effective algorithms for detecting novel
+  categories.
+\newblock {\em Journal of Machine Learning Research}, 23(44):1--47, 2022.
+
+\bibitem{Majid:Saaybi:Rietbergen2021}
+A.~Y. Majid, S.~Saaybi, T.~van Rietbergen, V.~Francois-Lavet, R.~V. Prasad, and
+  C.~Verhoeven.
+\newblock Deep reinforcement learning versus evolution strategies: A
+  comparative survey.
+\newblock arXiv:2110.01411, 2021.
+
+\bibitem{Masana:Liu:Twardowski2020}
+M.~Masana, X.~Liu, B.~Twardowski, M.~Menta, A.~D. Bagdanov, and J.~van~de
+  Weijer.
+\newblock Class-incremental learning: Survey and performance evaluation on
+  image classification.
+\newblock arXiv:2010.15277, 2021.
+
+\bibitem{Mohri:Medina2012}
+M.~Mohri and A.~M. Medina.
+\newblock New analysis and algorithm for learning with drifting distributions.
+\newblock In {\em ALT}, pages 124--138, 2012.
+
+\bibitem{Mohri:Rostamizadeh2008}
+M.~Mohri and A.~Rostamizadeh.
+\newblock Rademacher complexity bounds for non-i.i.d. processes.
+\newblock In {\em NIPS}, pages 1097--1104, 2008.
+
+\bibitem{Monti:Tamayo:Mesirov:Golub2003}
+S.~Monti, P.~Tamayo, J.~Mesirov, and T.~Golub.
+\newblock Consensus clustering: A resampling-based method for class discovery
+  and visualization of gene expression microarray data.
+\newblock {\em Machine Learning}, 52(1-2):91--118, 2003.
+
+\bibitem{Mu:Ting:Zhou2017}
+X.~Mu, K.~M. Ting, and Z.-H. Zhou.
+\newblock Classification under streaming emerging new classes: A solution using
+  completely-random trees.
+\newblock {\em IEEE Trans. Knowledge and Data Engineering}, 29(8):1605--1618,
+  2017.
+
+\bibitem{Mu:Zhu:Du:Lim:Zhou2017}
+X.~Mu, F.~Zhu, J.~Du, E.-P. Lim, and Z.-H. Zhou.
+\newblock Streaming classification with emerging new class by class matrix
+  sketching.
+\newblock In {\em AAAI}, pages 2373--2379, 2017.
+
+\bibitem{Natarajan:Dhillon:Ravikumar:Tewari2013}
+N.~Natarajan, I.~S. Dhillon, P.~K. Ravikumar, and A.~Tewari.
+\newblock Learning with noisy labels.
+\newblock In {\em NIPS}, pages 1196--1204, 2013.
+
+\bibitem{Ozawa:Toh:Abe:Pang2005}
+S.~Ozawa, S.~L. Toh, S.~Abe, S.~Pang, and N.~Kasabov.
+\newblock Incremental learning of feature space and classifier for face
+  recognition.
+\newblock {\em Neural Networks}, 18(5-6):575--584, 2005.
+
+\bibitem{Pan:Yang2009}
+S.~J. Pan and Q.~Yang.
+\newblock A survey on transfer learning.
+\newblock {\em IEEE Trans. Knowledge and Data Engineering}, 22(10):1345--1359,
+  2009.
+
+\bibitem{Parmar:Chouhan:Raychoudhury2021}
+J.~Parmar, S.~S. Chouhan, V.~Raychoudhury, and S.~S. Rathore.
+\newblock Open-world machine learning: applications, challenges, and
+  opportunities.
+\newblock arXiv:2105.13448, 2021.
+
+\bibitem{Pentina:Lampert2015}
+A.~Pentina and C.~H. Lampert.
+\newblock Lifelong learning with non-i.i.d. tasks.
+\newblock In {\em NIPS}, pages 1540--1548, 2015.
+
+\bibitem{Pfulb:Gepperth2019}
+B.~Pf{\"{u}}lb and A.~Gepperth.
+\newblock A comprehensive, application-oriented study of catastrophic
+  forgetting in {DNNs}.
+\newblock In {\em ICLR}, 2019.
+
+\bibitem{Scheirer:Rocha:Sapkota2013}
+W.~J. Scheirer, A.~R. Rocha, A.~Sapkota, and T.~E. Boult.
+\newblock Towards open set recognition.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  35(7):1757--1772, 2013.
+
+\bibitem{Sehwag:Bhagoji:Song2019}
+V.~Sehwag, A.~N. Bhagoji, L.~Song, C.~Sitawarin, D.~Cullina, and M.~Chiang.
+\newblock Analyzing the robustness of open-world machine learning.
+\newblock In {\em 12th ACM Workshop on Artificial Intelligence and Security},
+  pages 105--116, 2019.
+
+\bibitem{ShalevShwartz2011}
+S.~Shalev-Shwartz.
+\newblock Online learning and online convex optimization.
+\newblock {\em Foundations and Trends in Machine Learning}, 4(2):107--194,
+  2011.
+
+\bibitem{Socher:Ganjoo:Manning:Ng2013}
+R.~Socher, M.~Ganjoo, C.~D. Manning, and A.~Y. Ng.
+\newblock Zero-shot learning through cross-modal transfer.
+\newblock In {\em NIPS}, pages 935--943, 2013.
+
+\bibitem{Sugiyama:Kawanabe2012}
+M.~Sugiyama and M.~Kawanabe.
+\newblock {\em Machine Learning in Non-Stationary Environments: Introduction to
+  Covariate Shift Adaptation}.
+\newblock MIT Press, Cambridge, MA, 2012.
+
+\bibitem{Sutton:Barto2018}
+R.~S. Sutton and A.~G. Barto.
+\newblock {\em Reinforcement Learning: An Introduction}.
+\newblock MIT Press, Cambridge, MA, 2nd edition, 2012.
+
+\bibitem{Syed:Liu:Sung1999}
+N.~Syed, H.~Liu, and K.~Sung.
+\newblock Incremental learning with support vector machines.
+\newblock In {\em IJCAI-99 Workshop on Support Vector Machines}, 1999.
+
+\bibitem{Utgoff1989}
+P.~E. Utgoff.
+\newblock Incremental induction of decision trees.
+\newblock {\em Machine Learning}, 4(2):161--186, 1989.
+
+\bibitem{Wei:Luo2021}
+C.-Y. Wei and H.~Luo.
+\newblock Non-stationary reinforcement learning without prior knowledge: An
+  optimal black-box approach.
+\newblock In {\em COLT}, pages 4300--4354, 2021.
+
+\bibitem{Wu:Liu:Zhou2019}
+X.-Z. Wu, S.~Liu, and Z.-H. Zhou.
+\newblock Heterogeneous model reuse via optimizing multiparty multiclass
+  margin.
+\newblock In {\em ICML}, pages 6840--6849, 2019.
+
+\bibitem{Wu:Zhou2017}
+X.-Z. Wu and Z.-H. Zhou.
+\newblock A unified view of multi-label performance measures.
+\newblock In {\em ICML}, pages 3780--3788, 2017.
+
+\bibitem{Xian:Lampert:Schiele:Akata2019}
+Y.~Xian, C.~H. Lampert, B.~Schiele, and Z.~Akata.
+\newblock Zero-shot learning - a comprehensive evaluation of the good, the bad
+  and the ugly.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  41(9):2251--2265, 2019.
+
+\bibitem{Zhang:Yu:Zhou2018}
+C.~Zhang, Y.~Yu, and Z.-H. Zhou.
+\newblock Learning environmental calibration actions for policy self-evolution.
+\newblock In {\em IJCAI}, pages 3061--3067, 2018.
+
+\bibitem{Zhang:Lu:Zhou2018}
+L.~Zhang, S.~Lu, and Z.-H. Zhou.
+\newblock Adaptive online learning in dynamic environments.
+\newblock In {\em NeurIPS}, pages 1330--1340, 2018.
+
+\bibitem{Zhang:Zhou2018}
+L.~Zhang and Z.-H. Zhou.
+\newblock L1-regression with heavy-tailed distributions.
+\newblock In {\em NeurIPS}, pages 1084--1094, 2018.
+
+\bibitem{Zhang:Jin:Zhou2010}
+Y.~Zhang, R.~Jin, and Z.-H. Zhou.
+\newblock Understanding bag-of-words model: a statistical framework.
+\newblock {\em International Journal of Machine Learning and Cybernetics},
+  1(1):43--52, 2010.
+
+\bibitem{Zhang:Zhao:Ma:Zhou2020}
+Y.-J. Zhang, P.~Zhao, L.~Ma, and Z.-H. Zhou.
+\newblock An unbiased risk estimator for learning with augmented classes.
+\newblock In {\em NeurIPS}, pages 10247--10258, 2020.
+
+\bibitem{Zhang:Zhou2017}
+Y.-L. Zhang and Z.-H. Zhou.
+\newblock Multi-instance learning with key instance shift.
+\newblock In {\em IJCAI}, pages 3441--3447, 2017.
+
+\bibitem{Zhang:Zhao:Jiang:Zhou2020}
+Z.-Y. Zhang, P.~Zhao, Y.~Jiang, and Z.-H. Zhou.
+\newblock Learning with feature and distribution evolvable streams.
+\newblock In {\em ICML}, pages 11317--11327, 2020.
+
+\bibitem{Zhao:Cai:Zhou2020}
+P.~Zhao, L.-W. Cai, and Z.-H. Zhou.
+\newblock Handling concept drift via model reuse.
+\newblock {\em Machine Learning}, 109(3):533--568, 2020.
+
+\bibitem{Zhao:Wang:Zhang:Zhou2021}
+P.~Zhao, G.~Wang, L.~Zhang, and Z.-H. Zhou.
+\newblock Bandit convex optimization in non-stationary environments.
+\newblock {\em Journal of Machine Learning Research}, 22(125):1--45, 2021.
+
+\bibitem{Zhao:Wang:Xie:Guo:Zhou2021}
+P.~Zhao, X.~Wang, S.~Xie, L.~Guo, and Z.-H. Zhou.
+\newblock Distribution-free one-pass learning.
+\newblock {\em IEEE Trans. Knowledge and Data Engineering}, 33(3):951--963,
+  2021.
+
+\bibitem{Zhao:Wang:Zhou2022}
+P.~Zhao, Y.-X. Wang, and Z.-H. Zhou.
+\newblock Non-stationary online learning with memory and non-stochastic
+  control.
+\newblock In {\em AISTATS}, pages 2101--2133, 2022.
+
+\bibitem{Zhao:Zhang:Jiang:Zhou2020}
+P.~Zhao, L.~Zhang, Y.~Jiang, and Z.-H. Zhou.
+\newblock A simple approach for non-stationary linear bandits.
+\newblock In {\em AISTATS}, pages 746--755, 2020.
+
+\bibitem{Zhao:Zhang:Zhang:Zhou2020}
+P.~Zhao, Y.-J. Zhang, L.~Zhang, and Z.-H. Zhou.
+\newblock Dynamic regret of convex and smooth functions.
+\newblock In {\em NeurIPS}, pages 12510--12520, 2020.
+
+\bibitem{Zhao:Zhang:Zhou2021}
+P.~Zhao, Y.-J. Zhang, and Z.-H. Zhou.
+\newblock Exploratory machine learning with unknown unknowns.
+\newblock In {\em AAAI}, pages 10999--11006, 2021.
+
+\bibitem{Zhou:Sohn:Lee2012}
+G.~Zhou, K.~Sohn, and H.~Lee.
+\newblock Online incremental feature learning with denoising autoencoders.
+\newblock In {\em AISTATS}, pages 1453--1461, 2012.
+
+\bibitem{Zhou2012}
+Z.-H. Zhou.
+\newblock {\em Ensemble Methods: Foundations and Algorithms}.
+\newblock Chapman \& Hall/CRC, Boca Raton, FL, 2012.
+
+\bibitem{Zhou2016}
+Z.-H. Zhou.
+\newblock Learnware: On the future of machine learning.
+\newblock {\em Frontiers of Computer Science}, 10(4):589--590, 2016.
+
+\bibitem{Zhou2018}
+Z.-H. Zhou.
+\newblock A brief introduction to weakly supervised learning.
+\newblock {\em National Science Review}, 5(1):44--53, 2018.
+
+\bibitem{Zhou:Chen2002}
+Z.-H. Zhou and Z.~Chen.
+\newblock Hybrid decision tree.
+\newblock {\em Knowledge-Based Systems}, 15(8):515--528, 2002.
+
+\bibitem{Zhou:Yu:Qian2019}
+Z.-H. Zhou, Y.~Yu, and C.~Qian.
+\newblock {\em Evolutionary Learning: Advances in Theories and Algorithms}.
+\newblock Springer, Berlin, 2019.
+
+\bibitem{Zhu:Ting:Zhou2017aaai}
+Y.~Zhu, K.~M. Ting, and Z.-H. Zhou.
+\newblock Discover multiple novel labels in multi-instance multi-label
+  learning.
+\newblock In {\em AAAI}, pages 2977--2983, 2017.
+
+\bibitem{Zhu:Ting:Zhou2017}
+Y.~Zhu, K.~M. Ting, and Z.-H. Zhou.
+\newblock New class adaptation via instance generation in one-pass class
+  incremental learning.
+\newblock In {\em ICDM}, pages 1207--1212, 2017.
+
+\bibitem{Zhu:Ting:Zhou2018}
+Y.~Zhu, K.~M. Ting, and Z.-H. Zhou.
+\newblock Multi-label learning with emerging new labels.
+\newblock {\em IEEE Trans. Knowledge and Data Engineering}, 30(10):1901--1914,
+  2018.
+
+\bibitem{Zinkevich2003}
+M.~Zinkevich.
+\newblock Online convex programming and generalized infinitesimal gradient
+  ascent.
+\newblock In {\em ICML}, pages 928--936, 2003.
+
+\end{thebibliography}
